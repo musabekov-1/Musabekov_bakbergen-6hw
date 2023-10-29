@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">hw</string>
+    <string name="edittext_hint"><font size="15">Введите вышу почту</font></string>
+    <string name="edittext_hint2"><font size="15">Введите пароль</font></string>
+    <string name="login123">Выполните вход</string>
+    <string name="login1234">или зарегестрируйтесь.</string>
+    <string name="button01">Нажмите сюда</string>
+    <string name="text01">Вход</string>
+    <string name="text02">Забыл пароль?</string>
+    <string name="text03">Добро пожаловать!</string>
+    <string name="button012">Войти</string>
+</resources>
